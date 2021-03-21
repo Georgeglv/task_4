@@ -23,7 +23,12 @@ LICENSE: [MIT](./license.md)
 * git status
 * git log
 * git show
-
+### [Файл исключений .gitignore](./gitignore.md)
+* Основные правила синтаксиса
+* Спецсимволы
+### [Git Ветвление команды](./git_branch)
+* Основные команды
+* Правила для избежания конфликтов
 ---
 
 GIT Logo by Jason Long - http://git-scm.com/downloads/logos license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
