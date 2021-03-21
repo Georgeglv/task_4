@@ -1,3 +1,5 @@
+[< к содержанию](./readme.md)
+
 # Инструкция по работе с GIT
 
 LICENSE: [MIT](./license.md)
@@ -7,7 +9,7 @@ LICENSE: [MIT](./license.md)
 ---
 
 ## Содержание
-* [Что такое git](./git.md)
+### [Что такое GIT](./git.md)
 ### [Основные операции](./basic_operations.md)
 * git config
 * git init
