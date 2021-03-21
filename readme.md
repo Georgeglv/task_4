@@ -29,6 +29,7 @@ LICENSE: [MIT](./license.md)
 ### [Git Ветвление команды](./git_branch.md)
 * Основные команды
 * Правила для избежания конфликтов
+
 ---
 
 GIT Logo by Jason Long - http://git-scm.com/downloads/logos license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
